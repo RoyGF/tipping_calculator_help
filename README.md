@@ -1,4 +1,4 @@
-# Tip Calculator — Support & Help
+# Tip Calculator - FastTip — Support & Help
 
 Welcome!  
 This page provides support and information for the **Tip Calculator** iOS app.
@@ -66,4 +66,4 @@ This is my first personal SaaS app, built with a focus on simplicity, speed, and
 
 ---
 
-Thank you for using Tip Calculator!
+Thank you for using FastTip!
